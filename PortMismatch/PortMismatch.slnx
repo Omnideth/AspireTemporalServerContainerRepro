@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PortMismatch.AppHost/PortMismatch.AppHost.csproj" />
+  <Project Path="PortMismatch.ServiceDefaults/PortMismatch.ServiceDefaults.csproj" />
+</Solution>
